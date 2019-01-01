@@ -1,2 +1,3 @@
 # hello-world
-How to create a new repository
+A place to store ideas, resources, share, discuss
+
